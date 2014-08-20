@@ -1,3 +1,5 @@
 module Facterator
-  VERSION = "0.0.1"
+  module Facterate
+    VERSION = "0.0.1"
+  end
 end
